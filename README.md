@@ -1,12 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="200"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/thuthuy-fjs">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 ### About Me :
 
 I am a Full Stack Developer.
