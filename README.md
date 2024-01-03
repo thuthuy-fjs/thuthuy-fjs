@@ -7,7 +7,7 @@
   </a>
 </div>
 
-### &nbsp; About Me :
+### About Me :
 
 I am a Full Stack Developer.
 
@@ -15,7 +15,7 @@ I am a Full Stack Developer.
 - In my free time I solve problems on GeeksforGeeks and read tech articles.
 - How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-thuthuyfjs-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/thuthuy-fjs)
 
-### &nbsp; Languages and Tools :
+### Languages and Tools :
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
